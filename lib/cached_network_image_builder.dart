@@ -1,4 +1,4 @@
-library cached_network_image_builder;
+library cached_network_image_builder_2;
 
 import 'dart:io';
 

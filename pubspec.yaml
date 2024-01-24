@@ -1,4 +1,4 @@
-name: cached_network_image_builder
+name: cached_network_image_builder_2
 description: A widget to cache your network image check it if it has already stored with downloading it through basic http request, so doesn't need to download it again.
 version: 0.3.0
 repository: https://github.com/malibayram91/cached_network_image_builder
